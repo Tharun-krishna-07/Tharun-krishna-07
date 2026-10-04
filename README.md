@@ -60,8 +60,12 @@ Open to internships, collaborations and good ideas.
 **Instagram** · [@iblamekrishnaa_](https://www.instagram.com/iblamekrishnaa_)
 **Piano handle** · [@tharunkrishna.echo](https://www.instagram.com/tharunkrishnaa.echo/) where I showcase my piano skills 🎹
 
+<br>
+
+## Tech Stack
+
+[![Tech stack](https://skillicons.dev/icons?i=python,c,js,ts,html,css,django,react,fastapi,supabase,git,github,arch&perline=13)](https://skillicons.dev)
 
 <div align="center">
 <sub>Built with curiosity, one commit at a time.</sub>
-</div> 
-
+</div>
